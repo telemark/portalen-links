@@ -1,0 +1,401 @@
+[
+  {
+    "title": "Arbeidsrom",
+    "description": "Område for samarbeid og dokumentdeling",
+    "system": "Sharepoint",
+    "url": "https://rom.t-fk.no/Arbeidsrom/Sider/default.aspx",
+    "icon": "work"
+  },
+  {
+    "title": "Prosjektveiviseren",
+    "description": "Rom for prosjektstyring",
+    "system": "Sharepoint",
+    "url": "https://rom.t-fk.no/sites/Prosjektveiviseren/SitePages/Portefolje.aspx",
+    "icon": "folder"
+  },
+  {
+    "title": "Kontaktinformasjon",
+    "description": "Kontaktinformasjon til Telemark fylkeskommune",
+    "system": "Sharepoint",
+    "url": "https://rom.t-fk.no/informasjon/kontaktinformasjon/Sider/default.aspx",
+    "icon": "contact_phone"
+  },
+  {
+    "title": "Kontaktinformasjon skoler",
+    "description": "Kontaktinformasjon til skolene i Telemark fylkeskommune",
+    "system": "Sharepoint",
+    "url": "https://rom.t-fk.no/informasjon/kontaktinformasjon/Sider/Skoler.aspx",
+    "icon": "school"
+  },
+  {
+    "title": "Kontaktinformasjon tannklinikker",
+    "description": "Kontaktinformasjon til tannklinikkene i Telemark fylkeskommune",
+    "system": "Sharepoint",
+    "url": "https://rom.t-fk.no/informasjon/kontaktinformasjon/Sider/Tannklinikker.aspx",
+    "icon": "local_hospital"
+  },
+  {
+    "title": "Kontaktinformasjon fagforening",
+    "description": "Kontaktinformasjon til fagforeningene i Telemark fylkeskommune",
+    "system": "Sharepoint",
+    "url": "https://rom.t-fk.no/informasjon/kontaktinformasjon/Sider/Fagforeninger.aspx",
+    "icon": "supervisor_account"
+  },
+  {
+    "title": "Bedriftshelsetjenesten i Telemark fylkeskommune",
+    "description": "Kontaktinformasjon til bedrifthelsetjenesten i Telemark fylkeskommune",
+    "system": "Sharepoint",
+    "url": "https://rom.t-fk.no/informasjon/kontaktinformasjon/Sider/Bedriftshelsetjenesten.aspx",
+    "icon": "healing"
+  },
+  {
+    "title": "AMU og HMS",
+    "description": "Informasjon om arbeidsmiljøutvalget for administrasjonen",
+    "system": "Sharepoint",
+    "url": "https://rom.t-fk.no/informasjon/fylkeshuset/amuhms/Sider/default.aspx",
+    "icon": "group"
+  },
+  {
+    "title": "Møtemat",
+    "description": "Bestilling av møtemat",
+    "system": "Sharepoint",
+    "url": "https://rom.t-fk.no/informasjon/fylkeshuset/Sider/Motemat.aspx",
+    "icon": "cake"
+  },
+  {
+    "title": "Møterom",
+    "description": "Informasjon om møterommene i Telemark fylkeskommune",
+    "system": "Sharepoint",
+    "url": "https://rom.t-fk.no/informasjon/fylkeshuset/Sider/Moterom.aspx",
+    "icon": "event_seat"
+  },
+  {
+    "title": "Tjenestebiler",
+    "description": "Informasjon om tjenestebilene til Telemark fylkeskommune",
+    "system": "Sharepoint",
+    "url": "https://rom.t-fk.no/informasjon/fylkeshuset/Sider/Tjenestebiler.aspx",
+    "icon": "directions_car"
+  },
+  {
+    "title": "Tjenestesykler",
+    "description": "Informasjon om tjenestesyklene til Telemark fylkeskommune",
+    "system": "Sharepoint",
+    "url": "https://rom.t-fk.no/informasjon/fylkeshuset/Sider/Tjenestesykler.aspx",
+    "icon": "directions_bike"
+  },
+  {
+    "title": "Team kommunikasjon",
+    "description": "Kontaktinformasjon til team kommunikasjon",
+    "system": "Sharepoint",
+    "url": "https://rom.t-fk.no/informasjon/kommunikasjon/Sider/default.aspx",
+    "icon": "import_export"
+  },
+  {
+    "title": "Annonsering",
+    "description": "Informason om annonser og stillingsannonser",
+    "system": "Sharepoint",
+    "url": "https://rom.t-fk.no/informasjon/kommunikasjon/Sider/Annonsering.aspx",
+    "icon": "view_headline"
+  },
+  {
+    "title": "Bildearkiv",
+    "description": "Vår egen bildebase",
+    "system": "Fotostation",
+    "url": "https://rom.t-fk.no/informasjon/kommunikasjon/bildearkiv/Sider/default.aspx",
+    "icon": "photo_camera"
+  },
+  {
+    "title": "Grafisk profil",
+    "description": "Grafisk profil for Telemark fylkeskommune",
+    "system": "Sharepoint",
+    "url": "https://rom.t-fk.no/informasjon/kommunikasjon/Sider/Grafisk-profil.aspx",
+    "icon": "gesture"
+  },
+  {
+    "title": "Mediereglement",
+    "description": "Retningslinjer for mediekontakt",
+    "system": "Sharepoint",
+    "url": "https://rom.t-fk.no/informasjon/kommunikasjon/Sider/Mediereglement.aspx",
+    "icon": "mic"
+  },
+  {
+    "title": "Logo",
+    "description": "Logo for alle virksomheter i Telemark fylkeskommune",
+    "system": "web",
+    "url": "https://designguide.t-fk.no/logo-og-bruk/fylkesvaapen/",
+    "icon": "label_outline"
+  },
+  {
+    "title": "PR-materiell",
+    "description": "Profileringsmateriell til utlån",
+    "system": "Sharepoint",
+    "url": "https://rom.t-fk.no/informasjon/kommunikasjon/Sider/PR-materiell.aspx",
+    "icon": "picture_in_picture"
+  },
+  {
+    "title": "Visittkort",
+    "description": "Bestilling av visittkort",
+    "system": "Sharepoint",
+    "url": "https://rom.t-fk.no/informasjon/kommunikasjon/Sider/Visittkort.aspx",
+    "icon": "card_membership"
+  },
+  {
+    "title": "Trykking",
+    "description": "Rammeavtale for trykking",
+    "system": "Sharepoint",
+    "url": "https://rom.t-fk.no/informasjon/kommunikasjon/Sider/Trykking.aspx",
+    "icon": "print"
+  },
+  {
+    "title": "Team IT",
+    "description": "Informasjon om team IT",
+    "system": "Sharepoint",
+    "url": "https://rom.t-fk.no/informasjon/it/Sider/default.aspx",
+    "icon": "computer"
+  },
+  {
+    "title": "Lync kamera møterom",
+    "description": "Introduksjon til bruk av round table kamera",
+    "system": "Sharepoint",
+    "url": "https://rom.t-fk.no/informasjon/it/Sider/Lync-kamera-møterom.aspx",
+    "icon": "switch_camera"
+  },
+  {
+    "title": "Elev-pc",
+    "description": "Informasjon om ordningen med elev-pc",
+    "system": "Sharepoint",
+    "url": "https://rom.t-fk.no/informasjon/it/Sider/Elev-PC.aspx",
+    "icon": "add_to_queue"
+  },
+  {
+    "title": "E-post eksternt",
+    "description": "Informasjon om bruk av e-post outlook web-app",
+    "system": "Sharepoint",
+    "url": "https://rom.t-fk.no/informasjon/it/Sider/E-post-eksternt-(OWA).aspx",
+    "icon": "web_asset"
+  },
+  {
+    "title": "Telefoni",
+    "description": "Telefonavtalen med TDC",
+    "system": "Sharepoint",
+    "url": "https://rom.t-fk.no/informasjon/it/Sider/Telefoni.aspx",
+    "icon": "phonelink_ring"
+  },
+  {
+    "title": "IT-ansvarlige videregående skoler",
+    "description": "De IT-ansvarlige på de videregående skolene",
+    "system": "Sharepoint",
+    "url": "https://rom.t-fk.no/informasjon/it/Sider/IT-kontakter.aspx",
+    "icon": "phonelink_ring"
+  },
+  {
+    "title": "Hytte i Øyfjell",
+    "description": "Bedriftshytta på Annebu",
+    "system": "Sharepoint",
+    "url": "https://rom.t-fk.no/informasjon/velferd/Sider/Hytta.aspx",
+    "icon": "account_balance"
+  },
+  {
+    "title": "Kunstforeningen",
+    "description": "Kunstforeningen er for alle fast ansatte og pensjonister i Telemark fylkeskommune",
+    "system": "Sharepoint",
+    "url": "https://rom.t-fk.no/informasjon/velferd/Sider/Kunstforeningen.aspx",
+    "icon": "panorama"
+  },
+  {
+    "title": "Lån",
+    "description": "Lånemuligheter i pensjonskassa",
+    "system": "Sharepoint",
+    "url": "https://rom.t-fk.no/informasjon/velferd/Sider/Lån.aspx",
+    "icon": "attach_money"
+  },
+  {
+    "title": "​Trim- trivsels- og velferdsutvalget",
+    "description": "Utvalget skal tilby ulike aktiviteter for de ansatte",
+    "system": "Sharepoint",
+    "url": "https://rom.t-fk.no/informasjon/velferd/Sider/Trim-,-trivsels--og-velferdsutvalget-(TTV).aspx",
+    "icon": "directions_run"
+  },
+  {
+    "title": "​Foretak",
+    "description": "Oversikt over fylkeskommunale foretak",
+    "system": "Sharepoint",
+    "url": "https://rom.t-fk.no/informasjon/Sider/FORETAK.aspx",
+    "icon": "business"
+  },
+  {
+    "title": "Rammeavtaler",
+    "description": "Oversikt over innkjøp og rammeavtaler for Telemark fylkeskommune",
+    "system": "Sharepoint",
+    "url": "https://rom.t-fk.no/informasjon/Sider/InnkjøpRammeavtaler.aspx",
+    "icon": "dns"
+  },
+  {
+    "title": "Årshjul",
+    "description": "Årshjul for utarbeidelse av styringsdokumenter",
+    "system": "Sharepoint",
+    "url": "https://rom.t-fk.no/informasjon/Sider/%C3%85rshjul.aspx",
+    "icon": "autorenew"
+  },
+  {
+    "title": "Kurs",
+    "description": "Kurskatalog",
+    "system": "Sharepoint",
+    "url": "https://rom.t-fk.no/laering/Kurs/Sider/default.aspx",
+    "icon": "lightbulb_outline"
+  },
+  {
+    "title": "Opplæring Pindena",
+    "description": "Opplæringsvideo Pindena",
+    "system": "Sharepoint",
+    "url": "https://rom.t-fk.no/laering/Sider/Pindena.aspx",
+    "icon": "perm_device_information"
+  },
+  {
+    "title": "Arbeidsgiverorganisasjoner",
+    "description": "Oversikt over arbeidsgiverorganisasjoner i Telemark",
+    "system": "Sharepoint",
+    "url": "https://rom.t-fk.no/informasjon/linker/Sider/Arbeidsgiverorganisasjoner.aspx",
+    "icon": "group_work"
+  },
+  {
+    "title": "Aviser og media",
+    "description": "Oversikt over lokal og nasjonal media",
+    "system": "Sharepoint",
+    "url": "https://rom.t-fk.no/informasjon/linker/Sider/Aviser-og-media.aspx",
+    "icon": "theaters"
+  },
+  {
+    "title": "Besøksregistrering",
+    "description": "Hvis du venter besøk til fylkeshuset",
+    "system": "Sharepoint",
+    "url": "https://rom.t-fk.no/informasjon/linker/Sider/Bes%C3%B8ksregistrering.aspx",
+    "icon": "content_paste"
+  },
+  {
+    "title": "Fylkeskommuner",
+    "description": "Andre fylkeskommuner",
+    "system": "Sharepoint",
+    "url": "https://rom.t-fk.no/informasjon/linker/Sider/Fylkeskommuner.aspx",
+    "icon": "terrain"
+  },
+  {
+    "title": "Helse",
+    "description": "Helseinstitusjoner",
+    "system": "Sharepoint",
+    "url": "https://rom.t-fk.no/informasjon/linker/Sider/Helse.aspx",
+    "icon": "local_hospital"
+  },
+  {
+    "title": "Internasjonalt",
+    "description": "Telemark fylkeskommune sitt internasjonale arbeid",
+    "system": "Sharepoint",
+    "url": "https://rom.t-fk.no/informasjon/linker/Sider/Internasjonalt.aspx",
+    "icon": "language"
+  },
+  {
+    "title": "Kommuner",
+    "description": "Kommuner i Telemark",
+    "system": "Sharepoint",
+    "url": "https://rom.t-fk.no/informasjon/linker/Sider/Kommuner.aspx",
+    "icon": "landscape"
+  },
+  {
+    "title": "Kultur",
+    "description": "Kulturinstitusjoner i Telemark",
+    "system": "Sharepoint",
+    "url": "https://rom.t-fk.no/informasjon/linker/Sider/Kultur.aspx",
+    "icon": "blur_circular"
+  },
+  {
+    "title": "Lover",
+    "description": "Utvalgte lover",
+    "system": "Sharepoint",
+    "url": "https://rom.t-fk.no/informasjon/linker/Sider/Lover.aspx",
+    "icon": "library_books"
+  },
+  {
+    "title": "Næringsliv",
+    "description": "Næringslivsaktører",
+    "system": "Sharepoint",
+    "url": "https://rom.t-fk.no/informasjon/linker/Sider/Næringsliv.aspx",
+    "icon": "business"
+  },
+  {
+    "title": "Opplæring",
+    "description": "Opplæringsaktører",
+    "system": "Sharepoint",
+    "url": "https://rom.t-fk.no/informasjon/linker/Sider/Opplæring.aspx",
+    "icon": "school"
+  },
+  {
+    "title": "Pindena",
+    "description": "Pindena brukes til administrasjon av kurs og seminarer",
+    "system": "Sharepoint",
+    "url": "https://rom.t-fk.no/informasjon/linker/Sider/Empatix.aspx",
+    "icon": "people"
+  },
+  {
+    "title": "Plan",
+    "description": "Planer for Telemark fylkeskommune",
+    "system": "Sharepoint",
+    "url": "https://rom.t-fk.no/informasjon/linker/Sider/Plan.aspx",
+    "icon": "today"
+  },
+  {
+    "title": "Politikk",
+    "description": "Politiske partier",
+    "system": "Sharepoint",
+    "url": "https://rom.t-fk.no/informasjon/linker/Sider/Politikk.aspx",
+    "icon": "layers"
+  },
+  {
+    "title": "Samfunn",
+    "description": "Samfunnsaktører",
+    "system": "Sharepoint",
+    "url": "https://rom.t-fk.no/informasjon/linker/Sider/Samfunn.aspx",
+    "icon": "people_outline"
+  },
+  {
+    "title": "Telemark kommunerevisjon",
+    "description": "Telemark kommunerevisjon er et interkommunalt revisjonsselskap",
+    "system": "web",
+    "url": "http://tekomrev.no/",
+    "icon": "view_headline"
+  },
+  {
+    "title": "BTV-innkjøp",
+    "description": "BTV Innkjøp har fagansvaret for innkjøp i Buskerud, Telemark og Vestfold fylkeskommuner",
+    "system": "web",
+    "url": "http://www.bfk.no/Innkjop/",
+    "icon": "account_balance_wallet"
+  },
+  {
+    "title": "Utdanningsdirektoratet",
+    "description": "BTV Innkjøp har fagansvaret for innkjøp i Buskerud, Telemark og Vestfold fylkeskommuner",
+    "system": "web",
+    "url": "http://www.bfk.no/Innkjop/",
+    "icon": "account_balance_wallet"
+  },
+  {
+    "title": "Ferie",
+    "description": "Informasjon om ferie",
+    "system": "Sharepoint",
+    "url": "https://rom.t-fk.no/OFTESTILTE/Sider/Ferie.aspx",
+    "icon": "local_airport"
+  },
+  {
+    "title": "Egenmelding",
+    "description": "Informasjon om egenmelding",
+    "system": "Sharepoint",
+    "url": "https://rom.t-fk.no/OFTESTILTE/Sider/Egenmelding.aspx",
+    "icon": "accessibility"
+  },
+  {
+    "title": "Foreldrepermisjon",
+    "description": "Informasjon om foreldrepermisjon",
+    "system": "Sharepoint",
+    "url": "https://rom.t-fk.no/OFTESTILTE/Sider/Foreldrepermisjon.aspx",
+    "icon": "child_friendly"
+  }
+]
