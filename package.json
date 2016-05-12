@@ -1,6 +1,6 @@
 {
   "name": "portalen-links",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Collects a user's links for portalen",
   "license": "MIT",
   "author": {
@@ -14,7 +14,7 @@
   "homepage": "https://github.com/telemark/portalen-links",
   "main": "service.js",
   "engines": {
-    "node": ">=4.4.3"
+    "node": ">=4.4.4"
   },
   "scripts": {
     "test": "standard && tap --reporter=spec test/*.js",
@@ -34,6 +34,7 @@
     "tap": "5.7.1"
   },
   "dependencies": {
+    "is-file": "1.0.0",
     "seneca": "2.0.1",
     "seneca-balance-client": "0.4.0",
     "seneca-mesh": "0.7.0",
