@@ -4,12 +4,70 @@
 # portalen-links
 Collects links
 
-## Inbound messages
-This microservice consumes the following messages
+## Configuration
 
-- ```{cmd: 'collect-links', type: 'user'}```
+### PORTALEN_LINKS_TAG
+Tag for this service. Defaults to ```portalen-links```
 
-## Outbound messages
+### PORTALEN_LINKS_URL
+Not in use... yet. Defaults to ```http://portalen.links.no```
+
+### PORTALEN_LINKS_ISOLATED
+Use this to run the service in isolated mode.
+
+### PORTALEN_LINKS_HOST
+HOST for the service in isolated mode. Defaults to ```localhost```
+
+### PORTALEN_LINKS_PORT
+PORT for the service in isolated mode. Defaults to ```8000```
+
+## Messages handled
+
+### ```cmd: 'collect-links', type: 'user'```
+
+Returns a list if a users links based on roles, groups.
+
+```seneca.act({cmd: 'collect-links', type:'user', user:user, roles:[roles]}, (error, data) => {})```
+
+```curl -d '{"cmd": "collect-links", "type":"user", "user":"gasg", "roles": ["alle", "administrasjonen"]}' -v http://localhost:8000/act```
+
+Returns
+
+```
+[
+  {
+    title: "Arbeidsrom",
+    description: "Område for samarbeid og dokumentdeling",
+    system: "Sharepoint",
+    url: "https://rom.t-fk.no/Arbeidsrom/Sider/default.aspx",
+    icon: "work"
+  },
+  {
+    title: "Prosjektveiviseren",
+    description: "Rom for prosjektstyring",
+    system: "Sharepoint",
+    url: "https://rom.t-fk.no/sites/Prosjektveiviseren/SitePages/Portefolje.aspx",
+    icon: "folder"
+  },
+  {
+    title: "Kontaktinformasjon",
+    description: "Kontaktinformasjon til Telemark fylkeskommune",
+    system: "Sharepoint",
+    url: "https://rom.t-fk.no/informasjon/kontaktinformasjon/Sider/default.aspx",
+    icon: "contact_phone"
+  },
+  {
+    title: "Kontaktinformasjon skoler",
+    description: "Kontaktinformasjon til skolene i Telemark fylkeskommune",
+    system: "Sharepoint",
+    url: "https://rom.t-fk.no/informasjon/kontaktinformasjon/Sider/Skoler.aspx",
+    icon: "school"
+  },
+...
+...
+```
+
+## Messages emitted
 This microservice does not emit any messages
 
 ## Docker
