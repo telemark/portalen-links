@@ -29,15 +29,15 @@
     "url": "git://github.com/telemark/portalen-links.git"
   },
   "devDependencies": {
-    "coveralls": "2.11.9",
-    "standard": "6.0.8",
-    "tap": "5.7.1"
+    "coveralls": "2.11.12",
+    "standard": "7.1.2",
+    "tap": "6.3.2"
   },
   "dependencies": {
     "is-file": "1.0.0",
-    "seneca": "2.0.1",
-    "seneca-balance-client": "0.4.0",
-    "seneca-mesh": "0.7.0",
+    "seneca": "2.1.0",
+    "seneca-balance-client": "0.5.0",
+    "seneca-mesh": "0.8.0",
     "tfk-unique-array": "1.0.0"
   }
 }
