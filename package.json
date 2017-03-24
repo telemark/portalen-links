@@ -1,6 +1,6 @@
 {
   "name": "portalen-links",
-  "version": "1.1.14",
+  "version": "1.1.15",
   "description": "Collects a user's links for portalen",
   "license": "MIT",
   "author": {
@@ -29,16 +29,16 @@
     "url": "git://github.com/telemark/portalen-links.git"
   },
   "devDependencies": {
-    "coveralls": "2.11.16",
-    "nsp": "2.6.2",
-    "standard": "8.6.0",
-    "tap": "10.0.2"
+    "coveralls": "2.12.0",
+    "nsp": "2.6.3",
+    "standard": "9.0.2",
+    "tap": "10.3.0"
   },
   "dependencies": {
     "is-file": "1.0.0",
     "seneca": "3.2.2",
     "seneca-balance-client": "0.6.0",
-    "seneca-mesh": "0.9.0",
+    "seneca-mesh": "0.10.0",
     "tfk-unique-array": "1.0.11"
   }
 }
